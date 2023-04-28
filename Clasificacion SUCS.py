@@ -1,4 +1,4 @@
-#Clasificacion SUCS
+#Clasificacion SUCS por ASTM D2487
 
 #**********************DATOS**********************
 

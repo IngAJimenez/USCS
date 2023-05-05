@@ -4,12 +4,12 @@
 
 # % de gruesos = G + S, debe ser >=0 y <= 100%
 # Nota: cuando %F es > 50 poner cualquier valor en Cu y Cc p.ej Cu=0 , Cc=0
-Pgrava = 28
-Parena = 70
-Cu = 1
-Cc = 2
-LL = 60
-IP = 0
+Pgrava = float(input('¿Cuál es el Porcentaje de GRAVA?'))
+Parena = float(input('¿Cuál es el Porcentaje de ARENA?'))
+Cu = float(input('¿Cuál es el Cu?'))
+Cc = float(input('¿Cuál es el Cc?'))
+LL = float(input('¿Cuál es el LL?'))
+IP = float(input('¿Cuál es el IP?'))
 
 
 #**********************CALCULOS**********************
